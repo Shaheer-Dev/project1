@@ -31,3 +31,14 @@ nav {
 h1, p {
     text-align: center;
 }
+
+
+.slider{
+    height: 400px;
+    background-color: #0f79a3;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   font-size: 2vw;
+   color: white;
+}
